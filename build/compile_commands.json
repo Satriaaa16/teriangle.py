@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/satria_khy/project/tugas-grafik/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/project_pertama_openGL.dir/src/main.cpp.o -c /home/satria_khy/project/tugas-grafik/src/main.cpp",
+  "file": "/home/satria_khy/project/tugas-grafik/src/main.cpp",
+  "output": "CMakeFiles/project_pertama_openGL.dir/src/main.cpp.o"
+}
+]

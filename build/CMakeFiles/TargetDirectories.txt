@@ -1,0 +1,3 @@
+/home/satria_khy/project/tugas-grafik/build/CMakeFiles/project_pertama_openGL.dir
+/home/satria_khy/project/tugas-grafik/build/CMakeFiles/edit_cache.dir
+/home/satria_khy/project/tugas-grafik/build/CMakeFiles/rebuild_cache.dir
